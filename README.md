@@ -23,13 +23,6 @@ The cluster includes:
  Deployment Tool --> kubeadm 
 
 
-
-## Cluster Architecture
-
-(Add architecture diagram here)
-
-
-
 ## Setup Workflow
 
 1. VM Preparation
